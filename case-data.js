@@ -1,7 +1,310 @@
 window.CASEBOOK = {
   "title": "민사소송법 수업 범위 판례 정리",
   "updatedAt": "2026-10-17",
-  "scope": "9월 1일~10월 15일 13차시 · 교재 제11판 당사자적격까지와 수업에서 미리 언급한 관련 부분",
+  "scope": "9월 1일~10월 15일 13차시 · 교재 제11판 당사자적격까지와 수업에서 미리 언급한 관련 부분 · 튜터링 2~4회차 기출 연결",
+  "tutoringQuestions": [
+    {
+      "session": 2,
+      "section": "past",
+      "exam": "2014년 중간 1문",
+      "question": "문제1",
+      "pages": [
+        2,
+        3
+      ],
+      "caseIds": [
+        "tutor2-01"
+      ],
+      "coverage": "보통재판적, 불법행위지·의무이행지 및 공동피고의 관련재판적을 구별한다. 발문의 여행사 대표 개인과 법인을 혼동하여 회사 본점 관할을 곧바로 적용하지 않는다. 연결된 고엽제 판결의 국제관할 논의를 국내 불법행위 관할의 일반적 배제 규칙으로 옮기지 않는다.",
+      "status": "complete"
+    },
+    {
+      "session": 2,
+      "section": "past",
+      "exam": "2014년 중간 1문",
+      "question": "문제2",
+      "pages": [
+        2,
+        4,
+        5
+      ],
+      "caseIds": [
+        "court-28",
+        "court-27"
+      ],
+      "coverage": "전속적·부가적 관할합의의 해석과 관할약관의 불공정성 판단을 나눈다. 관할합의의 법정 요건과 교재의 비판적 견해를 구별하며, 합의에 참여하지 않은 공동피고에게까지 효력이 자동으로 미친다고 보지 않는다.",
+      "status": "complete"
+    },
+    {
+      "session": 2,
+      "section": "past",
+      "exam": "2016년 중간 1문",
+      "question": "문제1",
+      "pages": [
+        6
+      ],
+      "caseIds": [],
+      "coverage": "관할합의에 민법의 착오취소 규정을 유추할 수 있는지를 다루는 학설 문제다. 튜터링은 해당 판례가 없다고 명시하므로 특정 대법원 판결의 결론으로 표시하지 않는다.",
+      "status": "complete"
+    },
+    {
+      "session": 2,
+      "section": "past",
+      "exam": "2016년 중간 1문",
+      "question": "문제2",
+      "pages": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "caseIds": [
+        "court-28",
+        "court-27",
+        "party-06",
+        "tutor2-02",
+        "party-07"
+      ],
+      "coverage": "관할합의의 해석·약관 통제·변론관할과 관할위반 이송신청권을 순서대로 검토한다. 이송신청 기각에 대한 즉시항고·특별항고와 실제 이송결정의 취소 후 재항고를 구별한다. 해설 중 ‘대구’는 발문의 ‘대전’으로 바로잡으며, 신청권을 긍정하는 작성자의 견해를 판례의 결론과 섞지 않는다.",
+      "status": "complete"
+    },
+    {
+      "session": 2,
+      "section": "past",
+      "exam": "2018년 중간 1문",
+      "question": "단일 설문",
+      "pages": [
+        10,
+        11
+      ],
+      "caseIds": [
+        "court-28",
+        "court-27",
+        "party-05",
+        "tutor2-03"
+      ],
+      "coverage": "전속적 관할합의와 법정 전속관할을 구별하고, 현저한 지연을 피하기 위한 공익상 이송 가능성을 검토한다. 증거 소재지만으로 이송을 정당화하지 않으며 양쪽 당사자의 부담도 살핀다. 발문에 없는 약관·서면이라는 해설의 전제는 별도로 확인해야 한다.",
+      "status": "complete"
+    },
+    {
+      "session": 2,
+      "section": "past",
+      "exam": "2020년 중간 2문",
+      "question": "단일 설문",
+      "pages": [
+        12
+      ],
+      "caseIds": [
+        "party-06",
+        "tutor2-02",
+        "party-07"
+      ],
+      "coverage": "이송 요청, 법원의 직권 이송, 상대방의 즉시항고, 이송 취소 후 최초 요청자의 재항고를 단계별로 구별한다. 작성자의 재항고 긍정 견해와 대법원의 부정 결론을 구분하고, 주소 등 빠진 관할 사실은 임의로 보충하지 않는다.",
+      "status": "complete"
+    },
+    {
+      "session": 2,
+      "section": "past",
+      "exam": "2022년 중간 1-1문",
+      "question": "문제1",
+      "pages": [
+        13,
+        14
+      ],
+      "caseIds": [
+        "tutor2-01",
+        "party-08",
+        "tutor2-03"
+      ],
+      "coverage": "국내 특별재판적, 현저한 손해·지연을 피하기 위한 이송, 확정 이송결정의 기속력을 각각 검토한다. 당사자들이 수도권에 산다는 사정만으로 현저성이 충족된다고 단정하지 않는다. 고엽제 판결의 국제관할 논의도 국내 관할과 구별한다.",
+      "status": "complete"
+    },
+    {
+      "session": 2,
+      "section": "past",
+      "exam": "2025년 중간 1문",
+      "question": "단일 설문",
+      "pages": [
+        15
+      ],
+      "caseIds": [
+        "party-06",
+        "tutor2-02",
+        "party-07"
+      ],
+      "coverage": "2020년 기출과 같은 이송·불복 절차 구조를 복습한다. 이송을 요청한 당사자에게 재항고권이 있는지를 판례와 학설로 나누고, 특수기계 반환·사용료라는 사실만으로 기재되지 않은 관할 근거를 만들어 넣지 않는다.",
+      "status": "complete"
+    },
+    {
+      "session": 3,
+      "section": "past",
+      "exam": "2014년 중간 2문",
+      "question": "문제1",
+      "pages": [
+        2
+      ],
+      "caseIds": [
+        "party-13"
+      ],
+      "coverage": "소장의 표시·청구 내용·원인사실을 해석하여 당사자를 확정하고, 사망 사실을 모르고 제소한 경우 상속인을 실질적 피고로 보는 판례를 정리한다. 이를 의사설의 예외로 평가하는 교재의 설명은 판결이 스스로 선택한 학설과 구별한다.",
+      "status": "complete"
+    },
+    {
+      "session": 3,
+      "section": "past",
+      "exam": "2014년 중간 2문",
+      "question": "문제2",
+      "pages": [
+        2,
+        3
+      ],
+      "caseIds": [
+        "party-13",
+        "tutor3-01",
+        "tutor3-02"
+      ],
+      "coverage": "당사자의 동일성이 유지되는 표시정정과 당사자를 바꾸는 피고경정을 구별한다. 피고경정의 엄격한 요건 및 제1심에서 빠진 상속인을 항소심에 추가할 때의 심급보장 문제를 함께 읽는다.",
+      "status": "complete"
+    },
+    {
+      "session": 3,
+      "section": "past",
+      "exam": "2018년 중간 2문",
+      "question": "문제1",
+      "pages": [
+        4
+      ],
+      "caseIds": [
+        "party-11"
+      ],
+      "coverage": "피고의 이름을 모용한 사람과 피모용자 중 당사자가 누구인지, 법원이 누구를 배척하고 누구에게 기일을 통지해야 하는지 살핀다. 사고 때 거짓 인적사항을 준 사실만으로 실제 소송수행까지 모용했다고 단정하지 않는다.",
+      "status": "complete"
+    },
+    {
+      "session": 3,
+      "section": "past",
+      "exam": "2018년 중간 2문",
+      "question": "문제2",
+      "pages": [
+        4,
+        5
+      ],
+      "caseIds": [
+        "party-11"
+      ],
+      "coverage": "성명모용을 간과한 판결의 효력을 당연무효로 보지 않고, 무권대리에 준한 절차 하자와 상소·재심 구제를 구별한다. 판결확정 여부와 실제 송달 경과를 먼저 확인한다.",
+      "status": "complete"
+    },
+    {
+      "session": 3,
+      "section": "past",
+      "exam": "2025년 중간 2문",
+      "question": "단일 설문",
+      "pages": [
+        6,
+        7
+      ],
+      "caseIds": [
+        "party-15",
+        "party-13"
+      ],
+      "coverage": "제소 후 소장부본 송달 전에 피고가 사망한 경우의 판결무효와 상속인의 항소·수계를 다룬다. 해설의 ‘원고 사망’은 ‘피고 사망’으로 바로잡고, 판결 전의 표시정정과 무효판결 뒤 항소심에서의 정정을 구별한다.",
+      "status": "complete"
+    },
+    {
+      "session": 4,
+      "section": "past",
+      "exam": "2012년 중간 1문",
+      "question": "문제1",
+      "pages": [
+        2,
+        3
+      ],
+      "caseIds": [
+        "capacity-12"
+      ],
+      "coverage": "미성년 피고의 소송능력 흠에 대한 보정·추인과 미보정 시 법원의 조치를 정리한다. 주된 근거는 민사소송법 제51·55·59·60·62조이며, 연결 판례는 임금청구의 예외에 관한 비교 자료다. 특별대리인 선임에는 법정 요건이 필요하므로 법정대리인을 모른다는 사정만으로 자동 허용하지 않는다.",
+      "status": "complete"
+    },
+    {
+      "session": 4,
+      "section": "past",
+      "exam": "2012년 중간 1문",
+      "question": "문제2",
+      "pages": [
+        4,
+        5
+      ],
+      "caseIds": [
+        "capacity-13"
+      ],
+      "coverage": "소송무능력을 간과한 판결의 효력과 미성년자에게 한 송달의 효력을 나누고, 항소기간·구제 항소·항소심의 보정과 추인을 검토한다. 2020다8586은 현재 튜터링 해설과 법리를 연결한 것으로, 2012년 시험 당시 인용 판례라는 뜻은 아니다. 항소심 자판 등 해설의 논의 전부를 이 판례의 판시로 보지 않는다.",
+      "status": "complete"
+    },
+    {
+      "session": 4,
+      "section": "past",
+      "exam": "2020년 중간 1문",
+      "question": "단일 설문",
+      "pages": [
+        6,
+        7
+      ],
+      "caseIds": [
+        "capacity-12"
+      ],
+      "coverage": "게임기 매매계약의 해제·대금반환을 구하는 미성년 원고에게 부모의 허락만으로 독립 소송능력이 생기는지, 법정대리인의 보정·추인이 필요한지 검토한다. 해설의 피고 소장부본 송달 설명은 원고의 제소·소송행위 문제로 바로잡는다. 연결된 임금 판례는 일반 거래와 비교하기 위한 예외이다.",
+      "status": "complete"
+    },
+    {
+      "session": 4,
+      "section": "past",
+      "exam": "2016년 중간 2문",
+      "question": "문제1",
+      "pages": [
+        8,
+        9
+      ],
+      "caseIds": [
+        "standing-11",
+        "tutor4-02"
+      ],
+      "coverage": "피보전채권 부존재에 따른 소각하와 피대위채권의 본안 판단을 구별한다. 채무자의 권리불행사 요건을 설명한 판례도 함께 보되, 이를 대여금 복기 사례와 같은 실제 사건으로 취급하지 않는다.",
+      "status": "complete"
+    },
+    {
+      "session": 4,
+      "section": "past",
+      "exam": "2016년 중간 2문",
+      "question": "문제2",
+      "pages": [
+        8,
+        10
+      ],
+      "caseIds": [
+        "standing-07",
+        "tutor4-01",
+        "standing-08"
+      ],
+      "coverage": "종전 판례의 적격상실·회복과 2025년 전원합의체 이후의 적격유지를 대비한다. 2026년 튜터링 해설의 갱신 내용을 2016년 당시 결론과 구별하고, 발문에 추심채권자의 선행 추심소가 없으므로 중복제소를 단정하지 않는다.",
+      "status": "complete"
+    },
+    {
+      "session": 4,
+      "section": "past",
+      "exam": "2022년 기말 1-1문",
+      "question": "문제1",
+      "pages": [
+        11
+      ],
+      "caseIds": [
+        "standing-11",
+        "tutor4-02"
+      ],
+      "coverage": "사고와 가게 피해의 인과관계가 부정되면 피보전 손해배상채권이 없다는 점에서 대위소송의 적격을 판단한다. 피대위 보험금채권의 부존재로 청구를 기각하는 문제와 구별하고, 연결 판례의 실제 사실을 복기 사례에 덧붙이지 않는다.",
+      "status": "complete"
+    }
+  ],
   "cases": [
     {
       "id": "intro-01",
@@ -35,7 +338,8 @@ window.CASEBOOK = {
         "증거력",
         "교재 보충"
       ],
-      "relatedTopics": []
+      "relatedTopics": [],
+      "tutoringRefs": []
     },
     {
       "id": "intro-02",
@@ -71,7 +375,8 @@ window.CASEBOOK = {
       ],
       "relatedTopics": [
         "intro09"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "intro-03",
@@ -107,7 +412,8 @@ window.CASEBOOK = {
       ],
       "relatedTopics": [
         "intro09"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "intro-04",
@@ -143,7 +449,8 @@ window.CASEBOOK = {
       ],
       "relatedTopics": [
         "intro09"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "intro-05",
@@ -178,7 +485,8 @@ window.CASEBOOK = {
         "이송",
         "교재 보충"
       ],
-      "relatedTopics": []
+      "relatedTopics": [],
+      "tutoringRefs": []
     },
     {
       "id": "intro-06",
@@ -222,7 +530,8 @@ window.CASEBOOK = {
       "relatedTopics": [
         "intro10",
         "jur10"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "intro-07",
@@ -256,7 +565,8 @@ window.CASEBOOK = {
         "재판청구권",
         "헌법재판소"
       ],
-      "relatedTopics": []
+      "relatedTopics": [],
+      "tutoringRefs": []
     },
     {
       "id": "intro-08",
@@ -294,7 +604,8 @@ window.CASEBOOK = {
         "계약 해석",
         "교재 보충"
       ],
-      "relatedTopics": []
+      "relatedTopics": [],
+      "tutoringRefs": []
     },
     {
       "id": "intro-09",
@@ -335,7 +646,8 @@ window.CASEBOOK = {
         "jur06",
         "jur07",
         "jur10"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "intro-10",
@@ -373,7 +685,8 @@ window.CASEBOOK = {
       "relatedTopics": [
         "intro15",
         "intro16"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "intro-11",
@@ -411,7 +724,8 @@ window.CASEBOOK = {
       "relatedTopics": [
         "intro15",
         "intro16"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "intro-12",
@@ -448,7 +762,8 @@ window.CASEBOOK = {
       "relatedTopics": [
         "intro15",
         "intro16"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "intro-13",
@@ -485,7 +800,8 @@ window.CASEBOOK = {
       "relatedTopics": [
         "intro15",
         "intro16"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "intro-14",
@@ -522,7 +838,8 @@ window.CASEBOOK = {
       "relatedTopics": [
         "intro15",
         "intro16"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "intro-15",
@@ -559,7 +876,8 @@ window.CASEBOOK = {
       "relatedTopics": [
         "intro15",
         "intro16"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "intro-16",
@@ -596,7 +914,8 @@ window.CASEBOOK = {
       "relatedTopics": [
         "intro15",
         "intro16"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "intro-17",
@@ -633,7 +952,8 @@ window.CASEBOOK = {
       "relatedTopics": [
         "intro15",
         "intro16"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "intro-18",
@@ -670,7 +990,8 @@ window.CASEBOOK = {
       "relatedTopics": [
         "intro15",
         "intro16"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "intro-19",
@@ -706,7 +1027,8 @@ window.CASEBOOK = {
       ],
       "relatedTopics": [
         "proc04"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "intro-20",
@@ -743,7 +1065,8 @@ window.CASEBOOK = {
       ],
       "relatedTopics": [
         "proc04"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "intro-21",
@@ -778,7 +1101,8 @@ window.CASEBOOK = {
         "가액배상",
         "교재 보충"
       ],
-      "relatedTopics": []
+      "relatedTopics": [],
+      "tutoringRefs": []
     },
     {
       "id": "intro-22",
@@ -816,7 +1140,8 @@ window.CASEBOOK = {
       "relatedTopics": [
         "proc06",
         "proc07"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "intro-23",
@@ -853,7 +1178,8 @@ window.CASEBOOK = {
       "relatedTopics": [
         "proc06",
         "proc07"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "intro-24",
@@ -890,7 +1216,8 @@ window.CASEBOOK = {
       "relatedTopics": [
         "proc06",
         "proc07"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "intro-25",
@@ -927,7 +1254,8 @@ window.CASEBOOK = {
       "relatedTopics": [
         "proc06",
         "proc07"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "intro-26",
@@ -964,7 +1292,8 @@ window.CASEBOOK = {
       "relatedTopics": [
         "proc06",
         "proc07"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "intro-27",
@@ -1002,7 +1331,8 @@ window.CASEBOOK = {
       "relatedTopics": [
         "proc06",
         "proc07"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "court-01",
@@ -1033,6 +1363,20 @@ window.CASEBOOK = {
       ],
       "relatedTopics": [
         "proc08"
+      ],
+      "tutoringRefs": [
+        {
+          "session": 2,
+          "section": "expected",
+          "exam": "예상문제 1",
+          "question": "문제1",
+          "pages": [
+            16,
+            17
+          ],
+          "issue": "종중총회 결의무효확인소송에서 종중원인 법관의 제척",
+          "note": "예상문제로서 교내 기출이 아니다. 사건번호는 없으나 종중규약을 개정한 총회 결의의 효력에 관한 이해관계라는 사안과 판시를 2009다102254에 대응시켰다."
+        }
       ]
     },
     {
@@ -1068,6 +1412,20 @@ window.CASEBOOK = {
       ],
       "relatedTopics": [
         "proc08"
+      ],
+      "tutoringRefs": [
+        {
+          "session": 2,
+          "section": "expected",
+          "exam": "예상문제 1",
+          "question": "문제2",
+          "pages": [
+            16,
+            17
+          ],
+          "issue": "최종변론 전의 증거조사·기일지정과 이전심급 관여",
+          "note": "예상문제로서 교내 기출이 아니다. 최종변론이나 중간재판·판결의 합의에 관여하지 않은 법관이라는 구체적 조건과 판시를 96다56115에 대응시켰다. 단순한 이전심급 근무만으로 제척되지 않는다."
+        }
       ]
     },
     {
@@ -1098,6 +1456,20 @@ window.CASEBOOK = {
       ],
       "relatedTopics": [
         "proc08"
+      ],
+      "tutoringRefs": [
+        {
+          "session": 2,
+          "section": "expected",
+          "exam": "예상문제 1",
+          "question": "문제3",
+          "pages": [
+            16,
+            17
+          ],
+          "issue": "재심대상 원재판이 이전심급에 포함되는지",
+          "note": "예상문제로서 교내 기출이 아니다. 원재판과 재심은 이전심급 관계가 아니라는 판시를 2000재다87에 대응시켰다. 사후 기피나 제척판결의 불복은 별도 절차 문제이며 이 판결의 사실관계와 동일하다고 단정하지 않는다."
+        }
       ]
     },
     {
@@ -1128,7 +1500,8 @@ window.CASEBOOK = {
       ],
       "relatedTopics": [
         "proc08"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "court-05",
@@ -1160,7 +1533,8 @@ window.CASEBOOK = {
       ],
       "relatedTopics": [
         "proc08"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "court-06",
@@ -1192,7 +1566,8 @@ window.CASEBOOK = {
       ],
       "relatedTopics": [
         "proc08"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "court-07",
@@ -1224,7 +1599,8 @@ window.CASEBOOK = {
       ],
       "relatedTopics": [
         "proc08"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "court-08",
@@ -1261,7 +1637,8 @@ window.CASEBOOK = {
       ],
       "relatedTopics": [
         "proc09"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "court-09",
@@ -1298,7 +1675,8 @@ window.CASEBOOK = {
       ],
       "relatedTopics": [
         "proc09"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "court-10",
@@ -1336,7 +1714,8 @@ window.CASEBOOK = {
         "proc09",
         "cap09",
         "oct1503"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "court-11",
@@ -1367,7 +1746,8 @@ window.CASEBOOK = {
       ],
       "relatedTopics": [
         "proc09"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "court-12",
@@ -1399,7 +1779,8 @@ window.CASEBOOK = {
       "relatedTopics": [
         "proc10",
         "proc12"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "court-13",
@@ -1439,7 +1820,8 @@ window.CASEBOOK = {
       "relatedTopics": [
         "proc10",
         "proc12"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "court-14",
@@ -1476,7 +1858,8 @@ window.CASEBOOK = {
       "relatedTopics": [
         "proc10",
         "proc12"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "court-15",
@@ -1513,7 +1896,8 @@ window.CASEBOOK = {
       "relatedTopics": [
         "proc10",
         "proc12"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "court-16",
@@ -1547,7 +1931,8 @@ window.CASEBOOK = {
       "relatedTopics": [
         "proc10",
         "proc12"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "court-17",
@@ -1585,7 +1970,8 @@ window.CASEBOOK = {
       "relatedTopics": [
         "proc10",
         "proc12"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "court-18",
@@ -1620,7 +2006,8 @@ window.CASEBOOK = {
         "proc10",
         "proc12",
         "jur07"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "court-19",
@@ -1657,7 +2044,8 @@ window.CASEBOOK = {
       "relatedTopics": [
         "jur01",
         "jur02"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "court-20",
@@ -1689,7 +2077,8 @@ window.CASEBOOK = {
       "relatedTopics": [
         "jur01",
         "jur02"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "court-21",
@@ -1718,7 +2107,8 @@ window.CASEBOOK = {
         "등기",
         "교재 보충"
       ],
-      "relatedTopics": []
+      "relatedTopics": [],
+      "tutoringRefs": []
     },
     {
       "id": "court-22",
@@ -1751,7 +2141,8 @@ window.CASEBOOK = {
       "relatedTopics": [
         "cap09",
         "oct1503"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "court-23",
@@ -1780,7 +2171,8 @@ window.CASEBOOK = {
         "심급관할",
         "교재 보충"
       ],
-      "relatedTopics": []
+      "relatedTopics": [],
+      "tutoringRefs": []
     },
     {
       "id": "court-24",
@@ -1817,7 +2209,8 @@ window.CASEBOOK = {
       ],
       "relatedTopics": [
         "jur05"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "court-25",
@@ -1853,7 +2246,8 @@ window.CASEBOOK = {
       ],
       "relatedTopics": [
         "jur05"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "court-27",
@@ -1885,6 +2279,67 @@ window.CASEBOOK = {
       ],
       "relatedTopics": [
         "jur07"
+      ],
+      "tutoringRefs": [
+        {
+          "session": 2,
+          "section": "past",
+          "exam": "2014년 중간 1문",
+          "question": "문제2",
+          "pages": [
+            2,
+            5
+          ],
+          "issue": "사업자 소재지로 정한 관할약관의 불공정성",
+          "note": "사건번호 없는 판시 문장을 교재 171·174쪽 및 2007마1328 공식 전문과 대조한 법리대응이다. 다소 불편하다는 사정만으로 무효가 되는 것은 아니지만, 구체적 불이익과 거래상 지위 남용 등을 검토하여야 하므로 사업자 소재지 약관이 언제나 유효하다는 뜻은 아니다."
+        },
+        {
+          "session": 2,
+          "section": "past",
+          "exam": "2016년 중간 1문",
+          "question": "문제2",
+          "pages": [
+            6,
+            8
+          ],
+          "issue": "사업자 소재지로 정한 관할약관의 불공정성",
+          "note": "사건번호 없는 판시 문장을 교재 171·174쪽 및 2007마1328 공식 전문과 대조한 법리대응이다. 다소 불편하다는 사정만으로 무효가 되는 것은 아니지만, 구체적 불이익과 거래상 지위 남용 등을 검토하여야 하므로 사업자 소재지 약관이 언제나 유효하다는 뜻은 아니다."
+        },
+        {
+          "session": 2,
+          "section": "past",
+          "exam": "2018년 중간 1문",
+          "question": "단일 설문",
+          "pages": [
+            11
+          ],
+          "issue": "전속적 관할합의가 있어도 공익상 필요에 의한 이송이 가능한지",
+          "note": "2007마1328 이유 2에서 전속적 합의는 법정 전속관할과 달리 임의관할이며 공익상 필요에 의하여 다른 관할법원으로 이송할 수 있다고 한 부분과 대응한다. 해설의 손해방지·지연방지 구별은 교재 189쪽의 저자 견해도 포함하므로, 판결이 사익상 이송의 모든 경우를 별도 판시한 것처럼 확대하지 않는다."
+        },
+        {
+          "session": 2,
+          "section": "expected",
+          "exam": "예상문제 2",
+          "question": "문제1",
+          "pages": [
+            18,
+            19
+          ],
+          "issue": "은행 거래영업점 관할약관의 불공정성 심사",
+          "note": "두 설문에 공통된 선결 설명이다. 사건번호 없는 판시 문장을 2007마1328에 대응시켰으며, 교내 기출로 분류하지 않는다. p18 II.3의 물품공급계약·대전지방법원·甲과乙은 은행대출·수원지방법원·안암은행과甲의 오기이다."
+        },
+        {
+          "session": 2,
+          "section": "expected",
+          "exam": "예상문제 2",
+          "question": "문제2",
+          "pages": [
+            18,
+            19
+          ],
+          "issue": "은행 거래영업점 관할약관의 불공정성 심사",
+          "note": "두 설문에 공통된 선결 설명이다. 사건번호 없는 판시 문장을 2007마1328에 대응시켰으며, 교내 기출로 분류하지 않는다. p18 II.3의 물품공급계약·대전지방법원·甲과乙은 은행대출·수원지방법원·안암은행과甲의 오기이다."
+        }
       ]
     },
     {
@@ -1922,6 +2377,44 @@ window.CASEBOOK = {
       ],
       "relatedTopics": [
         "jur07"
+      ],
+      "tutoringRefs": [
+        {
+          "session": 2,
+          "section": "past",
+          "exam": "2014년 중간 1문",
+          "question": "문제2",
+          "pages": [
+            2,
+            4
+          ],
+          "issue": "법정관할 중 하나를 선택한 합의의 전속성 해석",
+          "note": "사건번호는 없으나 해설의 대여금·채권자 주소지 관할합의 판시를 교재 173쪽 및 2006다68209 공식 전문과 대조하였다. 판결의 국내 전속적 합의 해석 부분에 대응한다. 출제 사실관계가 그 판결의 사실관계라는 뜻은 아니며, 판결 전체의 국제적 효력 제한과도 구별한다."
+        },
+        {
+          "session": 2,
+          "section": "past",
+          "exam": "2016년 중간 1문",
+          "question": "문제2",
+          "pages": [
+            6,
+            7
+          ],
+          "issue": "법정관할 중 하나를 선택한 합의의 전속성 해석",
+          "note": "사건번호는 없으나 해설의 대여금·채권자 주소지 관할합의 판시를 교재 173쪽 및 2006다68209 공식 전문과 대조하였다. 판결의 국내 전속적 합의 해석 부분에 대응한다. 출제 사실관계가 그 판결의 사실관계라는 뜻은 아니며, 판결 전체의 국제적 효력 제한과도 구별한다."
+        },
+        {
+          "session": 2,
+          "section": "past",
+          "exam": "2018년 중간 1문",
+          "question": "단일 설문",
+          "pages": [
+            10,
+            11
+          ],
+          "issue": "법정관할 중 하나를 선택한 합의의 전속성 해석",
+          "note": "사건번호는 없으나 해설의 대여금·채권자 주소지 관할합의 판시를 교재 173쪽 및 2006다68209 공식 전문과 대조하였다. 판결의 국내 전속적 합의 해석 부분에 대응한다. 출제 사실관계가 그 판결의 사실관계라는 뜻은 아니며, 판결 전체의 국제적 효력 제한과도 구별한다."
+        }
       ]
     },
     {
@@ -1953,7 +2446,8 @@ window.CASEBOOK = {
       ],
       "relatedTopics": [
         "jur07"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "court-30",
@@ -1990,6 +2484,20 @@ window.CASEBOOK = {
       ],
       "relatedTopics": [
         "jur07"
+      ],
+      "tutoringRefs": [
+        {
+          "session": 2,
+          "section": "expected",
+          "exam": "예상문제 2",
+          "question": "문제1",
+          "pages": [
+            18,
+            19
+          ],
+          "issue": "대출금채권 양수인에게 관할합의의 효력이 미치는지",
+          "note": "예상문제로서 교내 기출이 아니다. 은행대출금채권을 한국자산관리공사가 양수한 사실 및 권리관계 특정승계 법리가 2005마902와 대응한다. 약관과 채권양도가 유효하게 성립한 것을 전제로 한다."
+        }
       ]
     },
     {
@@ -2026,6 +2534,20 @@ window.CASEBOOK = {
       ],
       "relatedTopics": [
         "jur07"
+      ],
+      "tutoringRefs": [
+        {
+          "session": 2,
+          "section": "expected",
+          "exam": "예상문제 2",
+          "question": "문제2",
+          "pages": [
+            18,
+            19
+          ],
+          "issue": "근저당권 설정 부동산 양수인에게 기존 관할합의가 미치는지",
+          "note": "예상문제로서 교내 기출이 아니다. 물권 양수만으로 계약상 관할합의가 승계되지 않는다는 법리를 94마536에 대응시켰다. 별도의 법정관할이나 새로운 합의의 존부는 따로 검토한다."
+        }
       ]
     },
     {
@@ -2062,7 +2584,8 @@ window.CASEBOOK = {
       ],
       "relatedTopics": [
         "jur08"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "court-33",
@@ -2096,7 +2619,8 @@ window.CASEBOOK = {
         "교재 기준 확인",
         "강의 법리"
       ],
-      "relatedTopics": []
+      "relatedTopics": [],
+      "tutoringRefs": []
     },
     {
       "id": "court-34",
@@ -2134,7 +2658,8 @@ window.CASEBOOK = {
       "relatedTopics": [
         "jur01",
         "jur02"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "court-35",
@@ -2163,7 +2688,8 @@ window.CASEBOOK = {
         "소액사건",
         "교재 보충"
       ],
-      "relatedTopics": []
+      "relatedTopics": [],
+      "tutoringRefs": []
     },
     {
       "id": "court-36",
@@ -2192,7 +2718,8 @@ window.CASEBOOK = {
         "소송구조",
         "교재 보충"
       ],
-      "relatedTopics": []
+      "relatedTopics": [],
+      "tutoringRefs": []
     },
     {
       "id": "party-01",
@@ -2230,7 +2757,8 @@ window.CASEBOOK = {
         "proc06",
         "proc07",
         "jur10"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "party-02",
@@ -2269,7 +2797,8 @@ window.CASEBOOK = {
         "proc06",
         "proc07",
         "jur10"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "party-04",
@@ -2307,7 +2836,8 @@ window.CASEBOOK = {
       "relatedTopics": [
         "intro09",
         "jur10"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "party-05",
@@ -2344,6 +2874,20 @@ window.CASEBOOK = {
       ],
       "relatedTopics": [
         "jur10"
+      ],
+      "tutoringRefs": [
+        {
+          "session": 2,
+          "section": "past",
+          "exam": "2018년 중간 1문",
+          "question": "단일 설문",
+          "pages": [
+            10,
+            11
+          ],
+          "issue": "물건·증인이 다른 지역에 있다는 사정과 이송의 현저성",
+          "note": "해설 말미의 판례상 이송요건을 엄격하게 판단한다는 설명을 교재 189쪽의 63마16 및 공식 전문에 대응시켰다. 사고·근저당권 서류를 다룬 원판례와 물품공급계약을 다룬 설문은 서로 다른 사실관계이다. 다른 지역의 증인이 있다는 사정만으로 이송이 당연히 허용되는 것은 아니라는 복습용 연결이다."
+        }
       ]
     },
     {
@@ -2381,6 +2925,43 @@ window.CASEBOOK = {
       ],
       "relatedTopics": [
         "jur10"
+      ],
+      "tutoringRefs": [
+        {
+          "session": 2,
+          "section": "past",
+          "exam": "2016년 중간 1문",
+          "question": "문제2",
+          "pages": [
+            6,
+            8,
+            9
+          ],
+          "issue": "관할위반에 의한 이송신청권과 신청기각결정에 대한 즉시항고",
+          "note": "사건번호 없는 해설의 신청권 부정·직권발동 촉구 법리를 교재 191~192쪽 및 93마524 전원합의체와 대조하였다. 튜터가 검토·결론에서 채택한 신청권 긍정 견해는 판례의 다수의견과 다르다. 사실관계가 이 사건 그대로라는 원전 단정은 하지 않는다."
+        },
+        {
+          "session": 2,
+          "section": "past",
+          "exam": "2020년 중간 2문",
+          "question": "단일 설문",
+          "pages": [
+            12
+          ],
+          "issue": "관할위반에 의한 이송신청권과 신청기각결정에 대한 즉시항고",
+          "note": "사건번호 없는 해설의 신청권 부정·직권발동 촉구 법리를 교재 191~192쪽 및 93마524 전원합의체와 대조하였다. 튜터가 검토·결론에서 채택한 신청권 긍정 견해는 판례의 다수의견과 다르다. 사실관계가 이 사건 그대로라는 원전 단정은 하지 않는다."
+        },
+        {
+          "session": 2,
+          "section": "past",
+          "exam": "2025년 중간 1문",
+          "question": "단일 설문",
+          "pages": [
+            15
+          ],
+          "issue": "관할위반에 의한 이송신청권과 신청기각결정에 대한 즉시항고",
+          "note": "사건번호 없는 해설의 신청권 부정·직권발동 촉구 법리를 교재 191~192쪽 및 93마524 전원합의체와 대조하였다. 튜터가 검토·결론에서 채택한 신청권 긍정 견해는 판례의 다수의견과 다르다. 사실관계가 이 사건 그대로라는 원전 단정은 하지 않는다."
+        }
       ]
     },
     {
@@ -2417,6 +2998,43 @@ window.CASEBOOK = {
       ],
       "relatedTopics": [
         "jur10"
+      ],
+      "tutoringRefs": [
+        {
+          "session": 2,
+          "section": "past",
+          "exam": "2016년 중간 1문",
+          "question": "문제2",
+          "pages": [
+            6,
+            8,
+            9
+          ],
+          "issue": "직권 이송결정이 항고심에서 취소된 후 이송 요청자의 재항고",
+          "note": "2017마1332와 절차 구조 및 판시 내용이 대응한다. 사건번호는 직접 기재되지 않았다. 2020·2025 설문은 이 절차 문제를 직접 묻고, 2016 해설에는 비교 법리로 포함된다. 판례는 재항고를 허용하지 않으며, 허용해야 한다는 튜터의 결론은 비판적 학설이다."
+        },
+        {
+          "session": 2,
+          "section": "past",
+          "exam": "2020년 중간 2문",
+          "question": "단일 설문",
+          "pages": [
+            12
+          ],
+          "issue": "직권 이송결정이 항고심에서 취소된 후 이송 요청자의 재항고",
+          "note": "2017마1332와 절차 구조 및 판시 내용이 대응한다. 사건번호는 직접 기재되지 않았다. 2020·2025 설문은 이 절차 문제를 직접 묻고, 2016 해설에는 비교 법리로 포함된다. 판례는 재항고를 허용하지 않으며, 허용해야 한다는 튜터의 결론은 비판적 학설이다."
+        },
+        {
+          "session": 2,
+          "section": "past",
+          "exam": "2025년 중간 1문",
+          "question": "단일 설문",
+          "pages": [
+            15
+          ],
+          "issue": "직권 이송결정이 항고심에서 취소된 후 이송 요청자의 재항고",
+          "note": "2017마1332와 절차 구조 및 판시 내용이 대응한다. 사건번호는 직접 기재되지 않았다. 2020·2025 설문은 이 절차 문제를 직접 묻고, 2016 해설에는 비교 법리로 포함된다. 판례는 재항고를 허용하지 않으며, 허용해야 한다는 튜터의 결론은 비판적 학설이다."
+        }
       ]
     },
     {
@@ -2454,6 +3072,20 @@ window.CASEBOOK = {
       ],
       "relatedTopics": [
         "jur10"
+      ],
+      "tutoringRefs": [
+        {
+          "session": 2,
+          "section": "past",
+          "exam": "2022년 중간 1-1문",
+          "question": "문제1",
+          "pages": [
+            13,
+            14
+          ],
+          "issue": "확정된 이송결정의 기속력과 심급관할 위반의 예외",
+          "note": "사건번호 없는 전속관할 위반 시 기속력 및 상급심 이송 예외의 설명을 교재 193쪽과 94마1059·1060에 대응시켰다. 발문은 이송결정의 확정을 명시하지 않으므로 기속력을 논할 때 확정을 전제해야 한다. 각주9에 복기가 불완전하여 해설을 보충했다는 표시가 있다."
+        }
       ]
     },
     {
@@ -2492,7 +3124,8 @@ window.CASEBOOK = {
         "jur13",
         "jur14",
         "oct1514"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "party-10",
@@ -2529,7 +3162,8 @@ window.CASEBOOK = {
       ],
       "relatedTopics": [
         "jur11"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "party-11",
@@ -2570,6 +3204,54 @@ window.CASEBOOK = {
       ],
       "relatedTopics": [
         "jur12"
+      ],
+      "tutoringRefs": [
+        {
+          "session": 3,
+          "section": "past",
+          "exam": "2018년 중간 2문",
+          "question": "문제1",
+          "pages": [
+            4
+          ],
+          "issue": "성명모용에도 유지되는 피모용자의 당사자 지위와 소송계속 중 법원의 조치",
+          "note": "번호는 없지만 피고의 지위가 원고의 소로 특정된다는 법리를 64다328과 교재 208·209쪽에 대응시켰다. 모용자 배제·진정한 피고에게 기일통지는 교재의 소송계속 중 처리 설명이며 이 판결은 본안판결 후 재심 사건이다. 기출의 사고 운전자가 실제로 소송까지 수행했는지는 4쪽 각주2도 불명확하다고 하므로 단정하지 않는다."
+        },
+        {
+          "session": 3,
+          "section": "past",
+          "exam": "2018년 중간 2문",
+          "question": "문제2",
+          "pages": [
+            4,
+            5
+          ],
+          "issue": "성명모용 간과판결의 효력과 피모용자의 상소·재심",
+          "note": "사건번호는 없지만 5쪽의 피고 참칭에도 당사자가 바뀌지 않는다는 설명 및 무권대리와 같은 절차관여 박탈 설명이 64다328 이유와 직접 대응한다. 교통사고 복기 사실과 원판결의 가옥명도 사건은 구별한다. 판결의 확정 여부와 적법한 송달을 확인한 뒤 상소·재심을 나누며, 모용만으로 당연무효라고 하지 않는다."
+        },
+        {
+          "session": 3,
+          "section": "expected",
+          "exam": "예상문제1",
+          "question": "문제1",
+          "pages": [
+            8
+          ],
+          "issue": "동생이 피고를 참칭한 경우 당사자확정과 기일 진행",
+          "note": "예상문제이며 기출로 집계하지 않는다. 64다328의 피모용자 당사자 지위 법리를 매매대금 사례에 적용한 것으로, 실제 판례의 사실관계가 아니다. 해설의 피모용자 丙은 A의 오기로 바로잡는다."
+        },
+        {
+          "session": 3,
+          "section": "expected",
+          "exam": "예상문제1",
+          "question": "문제2",
+          "pages": [
+            8,
+            9
+          ],
+          "issue": "모용자가 수행한 소송의 지급판결과 피모용자의 구제",
+          "note": "예상문제이며 기출로 집계하지 않는다. 무권대리와 같은 하자로 상소·재심을 허용하는 64다328의 이유에 대응한다. 9쪽 소제목의 피모용자 丙은 A의 오기이고, 청구액·인용액은 예상문제의 설정이다."
+        }
       ]
     },
     {
@@ -2604,7 +3286,8 @@ window.CASEBOOK = {
         "판결확정",
         "교재보충"
       ],
-      "relatedTopics": []
+      "relatedTopics": [],
+      "tutoringRefs": []
     },
     {
       "id": "party-13",
@@ -2647,6 +3330,54 @@ window.CASEBOOK = {
         "jur11",
         "jur13",
         "jur14"
+      ],
+      "tutoringRefs": [
+        {
+          "session": 3,
+          "section": "intro",
+          "exam": "3회차 안내·학설 설명",
+          "question": "제소 전 사망의 당사자확정과 표시정정",
+          "pages": [
+            1
+          ],
+          "issue": "상속인을 처음부터 실질적인 피고로 해석하는 판례와 의사설·표시설의 학설상 평가",
+          "note": "안내문에는 2005마425의 번호가 없다. 교재 205·210쪽과 공식 판결의 실질적 피고 해석 법리에 대응시킨 연결이다. 예외적 의사설이라는 평가는 교재·튜터의 학설적 설명이며 판결문이 직접 채택한 명칭으로 표시하지 않는다."
+        },
+        {
+          "session": 3,
+          "section": "past",
+          "exam": "2014년 중간 2문",
+          "question": "문제1",
+          "pages": [
+            2
+          ],
+          "issue": "제소 전 사망한 피고와 실제 소송 중인 상속인 가운데 당사자를 확정하는 기준",
+          "note": "사건번호 없이 설명된 상속인 표시정정 법리를 2005마425에 대응시켰다. 판례 적용 결론은 여러 사정상 처음부터 실질적인 피고였던 상속인이며, 망인을 피고로 보는 표시설의 일반 설명과 이를 병렬의 동일 결론처럼 쓰지 않는다. 기출 복기에는 유일한 상속인이 등장하고 실제 판례에는 상속포기와 후순위 상속인이 등장하므로 동일 사건의 복제라고 단정하지 않는다."
+        },
+        {
+          "session": 3,
+          "section": "past",
+          "exam": "2014년 중간 2문",
+          "question": "문제2",
+          "pages": [
+            2,
+            3
+          ],
+          "issue": "상속인 표시정정과 피고경정의 구별",
+          "note": "해설의 처음부터 상속인이 실질적 피고였다는 설명이 이 결정의 법리와 대응한다. 판례는 표시정정을 허용하는 구조이고, 피고경정을 활용하자는 결론은 교재·튜터의 비판적 견해로 구분한다. 사망자의 지위를 수계한다는 방식과 이미 확정된 실질적 피고의 표시를 바로잡는 방식도 혼동하지 않는다."
+        },
+        {
+          "session": 3,
+          "section": "past",
+          "exam": "2025년 중간 2문",
+          "question": "단일 설문",
+          "pages": [
+            6,
+            7
+          ],
+          "issue": "상속인으로 표시정정하는 일반 설명과 무효인 제1심판결 후의 구제 제한",
+          "note": "Ⅲ의 당사자확정·상속인 표시정정 설명에 대한 법리 대응이며 기출 원사건의 동일성 확인은 아니다. 이 일반 설명만으로 본안판결 이후 항소심의 표시정정·수계를 허용할 수 없고, 설문의 최종 단계는 party-15의 2014다34041에 따라 별도로 판단한다."
+        }
       ]
     },
     {
@@ -2690,7 +3421,8 @@ window.CASEBOOK = {
         "jur11",
         "jur13",
         "jur14"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "party-15",
@@ -2739,6 +3471,20 @@ window.CASEBOOK = {
         "jur13",
         "jur14",
         "oct1515"
+      ],
+      "tutoringRefs": [
+        {
+          "session": 3,
+          "section": "past",
+          "exam": "2025년 중간 2문",
+          "question": "단일 설문",
+          "pages": [
+            6,
+            7
+          ],
+          "issue": "제소 후 소장부본 송달 전 피고 사망을 간과한 판결과 상속인의 항소·수계",
+          "note": "번호는 없으나 대립당사자 구조 흠결·당연무효·상속인의 항소와 수계 부적법이라는 해설이 2014다34041 판시사항·이유1에 대응한다. 6쪽 인용의 원고 사망은 피고 사망의 오기이며, 제소 전 사망이라는 제목도 실제 설문의 송달 전 사망과 구별한다. 매매·소유권이전등기 및 2025년 날짜는 복기·변형문제의 설정으로 실제 대여금 사건의 사실이 아니다. 등기·등록 외관이 있어야 항소를 허용한다는 7쪽 검토는 튜터의 견해이지 판례의 예외가 아니다."
+        }
       ]
     },
     {
@@ -2777,7 +3523,8 @@ window.CASEBOOK = {
         "intro16",
         "jur13",
         "jur14"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "party-17",
@@ -2819,7 +3566,8 @@ window.CASEBOOK = {
       "relatedTopics": [
         "jur13",
         "jur14"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "party-18",
@@ -2856,7 +3604,8 @@ window.CASEBOOK = {
       "relatedTopics": [
         "jur13",
         "jur14"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "party-19",
@@ -2894,7 +3643,8 @@ window.CASEBOOK = {
       "relatedTopics": [
         "jur13",
         "jur14"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "capacity-01",
@@ -2931,7 +3681,8 @@ window.CASEBOOK = {
       ],
       "relatedTopics": [
         "jur15"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "capacity-02",
@@ -2968,7 +3719,8 @@ window.CASEBOOK = {
       ],
       "relatedTopics": [
         "jur15"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "capacity-03",
@@ -3007,7 +3759,8 @@ window.CASEBOOK = {
       "relatedTopics": [
         "jur16",
         "jur18"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "capacity-04",
@@ -3045,7 +3798,8 @@ window.CASEBOOK = {
       "relatedTopics": [
         "jur16",
         "jur18"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "capacity-05",
@@ -3084,6 +3838,19 @@ window.CASEBOOK = {
         "jur16",
         "jur18",
         "jur17"
+      ],
+      "tutoringRefs": [
+        {
+          "session": 4,
+          "section": "expected",
+          "exam": "예상문제 2",
+          "question": "단일 설문",
+          "pages": [
+            15
+          ],
+          "issue": "비법인사단의 실체와 단체 명의 소송",
+          "note": "일반 비법인사단의 실체 기준을 99다4504에 대응시켰다. 채권단 사건과 종중 발문을 같은 실제 사건으로 취급하지 않는다."
+        }
       ]
     },
     {
@@ -3118,7 +3885,20 @@ window.CASEBOOK = {
         "자연성립",
         "단체의 동일성"
       ],
-      "relatedTopics": []
+      "relatedTopics": [],
+      "tutoringRefs": [
+        {
+          "session": 4,
+          "section": "expected",
+          "exam": "예상문제 2",
+          "question": "단일 설문",
+          "pages": [
+            15
+          ],
+          "issue": "고유한 의미의 종중의 자연성립과 대표권의 구별",
+          "note": "해설의 조직요건 표현을 교정하기 위한 96다488 법리 연결이다. 자연발생적 종중에 특별한 창립행위를 요구하는 것과 실제 소송수행에 필요한 대표권을 구별한다."
+        }
+      ]
     },
     {
       "id": "capacity-07",
@@ -3170,7 +3950,8 @@ window.CASEBOOK = {
       "relatedTopics": [
         "jur17",
         "oct1512"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "capacity-08",
@@ -3207,7 +3988,8 @@ window.CASEBOOK = {
       "relatedTopics": [
         "jur16",
         "jur18"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "capacity-09",
@@ -3239,7 +4021,8 @@ window.CASEBOOK = {
       "relatedTopics": [
         "jur16",
         "jur18"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "capacity-10",
@@ -3275,7 +4058,8 @@ window.CASEBOOK = {
       ],
       "relatedTopics": [
         "jur17"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "capacity-11",
@@ -3313,7 +4097,8 @@ window.CASEBOOK = {
       "relatedTopics": [
         "jur16",
         "jur18"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "capacity-12",
@@ -3351,6 +4136,30 @@ window.CASEBOOK = {
         "cap01",
         "cap04",
         "cap05"
+      ],
+      "tutoringRefs": [
+        {
+          "session": 4,
+          "section": "past",
+          "exam": "2012년 중간 1문",
+          "question": "문제1",
+          "pages": [
+            2
+          ],
+          "issue": "미성년자의 소송능력 예외인 독자적 임금청구",
+          "note": "해설이 판례라고 소개한 임금청구 예외를 80다3149에 대응시켰다. 번호는 없으며 대여금 발문과 임금 판례의 사실은 다르다."
+        },
+        {
+          "session": 4,
+          "section": "past",
+          "exam": "2020년 중간 1문",
+          "question": "단일 설문",
+          "pages": [
+            6
+          ],
+          "issue": "미성년자의 임금청구소송 예외와 일반 거래의 구별",
+          "note": "번호 없는 해설을 80다3149의 법리에 대응시켰다. 게임기 매매계약 사건에 임금청구 예외가 적용된다는 뜻이 아니다."
+        }
       ]
     },
     {
@@ -3391,6 +4200,19 @@ window.CASEBOOK = {
         "cap01",
         "cap04",
         "cap05"
+      ],
+      "tutoringRefs": [
+        {
+          "session": 4,
+          "section": "past",
+          "exam": "2012년 중간 1문",
+          "question": "문제2",
+          "pages": [
+            4
+          ],
+          "issue": "미성년자 본인에게 한 판결 송달의 무효와 항소기간 미진행",
+          "note": "2026년 튜터링 해설의 판례 문구를 2020다8586에 법리 대응시킨 것이다. 2012년 시험 당시 이 후일 판례가 인용되었다는 뜻이 아니며, 항소심의 자판·보정 논의 전부를 이 판례의 직접 판시로 삼지 않는다."
+        }
       ]
     },
     {
@@ -3430,7 +4252,8 @@ window.CASEBOOK = {
         "cap01",
         "cap04",
         "cap05"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "capacity-15",
@@ -3467,7 +4290,8 @@ window.CASEBOOK = {
       ],
       "relatedTopics": [
         "cap06"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "capacity-16",
@@ -3504,7 +4328,8 @@ window.CASEBOOK = {
       ],
       "relatedTopics": [
         "cap06"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "capacity-17",
@@ -3536,7 +4361,8 @@ window.CASEBOOK = {
         "cap01",
         "cap04",
         "cap05"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "standing-01",
@@ -3571,6 +4397,19 @@ window.CASEBOOK = {
       ],
       "relatedTopics": [
         "cap07"
+      ],
+      "tutoringRefs": [
+        {
+          "session": 4,
+          "section": "intro",
+          "exam": "4회차 안내",
+          "question": "일반 당사자적격 관심 논점",
+          "pages": [
+            1
+          ],
+          "issue": "일반적인 당사자적격",
+          "note": "안내문이 관심 영역만 언급하여 기존 88다카26499를 법리상 참고로 연결한다. 특정 시험에서 이 판례가 출제되었다는 표시가 아니다."
+        }
       ]
     },
     {
@@ -3607,6 +4446,19 @@ window.CASEBOOK = {
       ],
       "relatedTopics": [
         "cap07"
+      ],
+      "tutoringRefs": [
+        {
+          "session": 4,
+          "section": "intro",
+          "exam": "4회차 안내",
+          "question": "말소등기청구의 피고적격 안내",
+          "pages": [
+            1
+          ],
+          "issue": "등기말소소송의 피고적격",
+          "note": "변시·변모 관심 영역에 대응하는 기존 판례 연결이다. 안내문에는 시험연도·문항·사건번호가 없어 구체 기출 인용으로 확정하지 않는다."
+        }
       ]
     },
     {
@@ -3642,7 +4494,8 @@ window.CASEBOOK = {
       ],
       "relatedTopics": [
         "cap07"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "standing-04",
@@ -3678,7 +4531,8 @@ window.CASEBOOK = {
       ],
       "relatedTopics": [
         "cap07"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "standing-05",
@@ -3714,7 +4568,8 @@ window.CASEBOOK = {
       "relatedTopics": [
         "cap07",
         "proc04"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "standing-06",
@@ -3754,7 +4609,8 @@ window.CASEBOOK = {
       "relatedTopics": [
         "cap09",
         "oct1516"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "standing-07",
@@ -3796,6 +4652,42 @@ window.CASEBOOK = {
         "oct1502",
         "oct1506",
         "oct1503"
+      ],
+      "tutoringRefs": [
+        {
+          "session": 4,
+          "section": "past",
+          "exam": "2016년 중간 2문",
+          "question": "문제2",
+          "pages": [
+            8,
+            10
+          ],
+          "issue": "압류·추심명령으로 채무자가 적격을 잃는다는 종전 법리",
+          "note": "99다23888과 법리 대응하며 번호 직접 인용은 없다. 기출연도 당시의 법리와 2025년 변경 후 해설을 나누어 읽는다."
+        },
+        {
+          "session": 4,
+          "section": "expected",
+          "exam": "예상문제 1",
+          "question": "문제1",
+          "pages": [
+            12
+          ],
+          "issue": "추심채무자의 당사자적격에 관한 종전 판례",
+          "note": "각주6이 2016년 문제2 해설을 참조시킨다. 예상문제이며 교내 기출로 분류하지 않는다."
+        },
+        {
+          "session": 4,
+          "section": "expected",
+          "exam": "예상문제 1",
+          "question": "문제2",
+          "pages": [
+            14
+          ],
+          "issue": "종전 적격상실설과 중복제소 부정의 전제",
+          "note": "이 카드의 적격상실 법리와 standing-28의 종전 중복제소 판단을 함께 비교하는 연결이다."
+        }
       ]
     },
     {
@@ -3847,6 +4739,54 @@ window.CASEBOOK = {
         "oct1503",
         "oct1505",
         "oct1506"
+      ],
+      "tutoringRefs": [
+        {
+          "session": 4,
+          "section": "intro",
+          "exam": "4회차 안내",
+          "question": "추심 최신판례 안내",
+          "pages": [
+            1
+          ],
+          "issue": "추심채무자 적격에 관한 판례변경",
+          "note": "2021다252977과 대응한다. 예상 출제 언급이며 실제 교내 출제의 증거가 아니다."
+        },
+        {
+          "session": 4,
+          "section": "past",
+          "exam": "2016년 중간 2문",
+          "question": "문제2",
+          "pages": [
+            8,
+            10
+          ],
+          "issue": "2025년 변경 후에도 유지되는 채무자 적격",
+          "note": "2026 해설이 덧붙인 판례변경 대응이다. 2016년 당시 인용으로 보지 않으며 추심소의 선행 제기를 발문에 추가하지 않는다."
+        },
+        {
+          "session": 4,
+          "section": "expected",
+          "exam": "예상문제 1",
+          "question": "문제1",
+          "pages": [
+            12,
+            13
+          ],
+          "issue": "추심소가 먼저 계속된 뒤 채무자가 같은 청구를 한 경우",
+          "note": "보충의견의 양방향 중복제소 설명과 연결한다. p13의 반대의견 문구는 제소순서가 반대인 가정적 비판이다."
+        },
+        {
+          "session": 4,
+          "section": "expected",
+          "exam": "예상문제 1",
+          "question": "문제2",
+          "pages": [
+            14
+          ],
+          "issue": "채무자 선행소송과 추심채권자의 후소",
+          "note": "다수의견에도 이 순서에서 참가 외 별소를 허용하지 않는 설명이 있다. 모든 중복제소 논의가 보충의견에만 있다는 요약은 피한다."
+        }
       ]
     },
     {
@@ -3886,7 +4826,8 @@ window.CASEBOOK = {
         "oct1516",
         "cap09",
         "oct1503"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "standing-10",
@@ -3928,7 +4869,8 @@ window.CASEBOOK = {
         "oct1502",
         "cap09",
         "oct1503"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "standing-11",
@@ -3971,6 +4913,31 @@ window.CASEBOOK = {
         "oct1515",
         "cap08",
         "oct1516"
+      ],
+      "tutoringRefs": [
+        {
+          "session": 4,
+          "section": "past",
+          "exam": "2016년 중간 2문",
+          "question": "문제1",
+          "pages": [
+            8,
+            9
+          ],
+          "issue": "피보전 대여금채권 부존재에 따른 대위채권자의 원고적격 흠결",
+          "note": "번호 없는 해설의 핵심 결론을 91다10008에 법리 대응시켰다. 피대위권리 자체가 없어서 본안기각하는 경우와 구별한다."
+        },
+        {
+          "session": 4,
+          "section": "past",
+          "exam": "2022년 기말 1-1문",
+          "question": "문제1",
+          "pages": [
+            11
+          ],
+          "issue": "피보전 손해배상채권이 없을 때 각하와 기각의 구별",
+          "note": "91다10008의 법리 대응이다. 사고와 가게 손해의 인과관계 부정은 갑의 X에 대한 피보전채권을 없애며, 곧바로 X의 Y에 대한 보험금채권 부존재를 뜻하지 않는다."
+        }
       ]
     },
     {
@@ -4010,7 +4977,8 @@ window.CASEBOOK = {
         "jur13",
         "jur14",
         "cap08"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "standing-13",
@@ -4049,7 +5017,8 @@ window.CASEBOOK = {
         "oct1515",
         "cap08",
         "oct1516"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "standing-14",
@@ -4088,7 +5057,8 @@ window.CASEBOOK = {
         "oct1515",
         "cap08",
         "oct1516"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "standing-15",
@@ -4123,7 +5093,8 @@ window.CASEBOOK = {
       ],
       "relatedTopics": [
         "oct1515"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "standing-16",
@@ -4164,7 +5135,8 @@ window.CASEBOOK = {
         "cap10",
         "oct1509",
         "oct1510"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "standing-17",
@@ -4200,7 +5172,8 @@ window.CASEBOOK = {
       "relatedTopics": [
         "oct1509",
         "oct1510"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "standing-18",
@@ -4236,7 +5209,8 @@ window.CASEBOOK = {
       "relatedTopics": [
         "oct1509",
         "oct1510"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "standing-19",
@@ -4277,7 +5251,8 @@ window.CASEBOOK = {
       "relatedTopics": [
         "cap08",
         "oct1512"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "standing-21",
@@ -4315,7 +5290,8 @@ window.CASEBOOK = {
       "relatedTopics": [
         "oct1512",
         "oct1513"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "standing-22",
@@ -4352,7 +5328,8 @@ window.CASEBOOK = {
         "oct1505",
         "oct1513",
         "oct1512"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "standing-23",
@@ -4388,7 +5365,8 @@ window.CASEBOOK = {
       "relatedTopics": [
         "oct1513",
         "oct1512"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "standing-24",
@@ -4423,7 +5401,8 @@ window.CASEBOOK = {
       ],
       "relatedTopics": [
         "oct1514"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "standing-25",
@@ -4458,7 +5437,8 @@ window.CASEBOOK = {
       ],
       "relatedTopics": [
         "oct1514"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "standing-26",
@@ -4493,7 +5473,8 @@ window.CASEBOOK = {
       ],
       "relatedTopics": [
         "oct1514"
-      ]
+      ],
+      "tutoringRefs": []
     },
     {
       "id": "standing-27",
@@ -4536,6 +5517,19 @@ window.CASEBOOK = {
         "oct1510",
         "oct1516",
         "cap08"
+      ],
+      "tutoringRefs": [
+        {
+          "session": 4,
+          "section": "expected",
+          "exam": "예상문제 1",
+          "question": "문제1",
+          "pages": [
+            13
+          ],
+          "issue": "대위소송의 판결효력을 비교하는 보조 논의",
+          "note": "해설의 채권자대위소송과 비교한다는 설명에 대한 제한적 법리 연결이다. 74다1664의 채무자 실제 인지 요건까지 추심소송에 그대로 적용하거나, 해설이 이 번호를 직접 인용했다고 보지 않는다."
+        }
       ]
     },
     {
@@ -4579,6 +5573,405 @@ window.CASEBOOK = {
         "jur01",
         "jur02",
         "cap09"
+      ],
+      "tutoringRefs": [
+        {
+          "session": 4,
+          "section": "expected",
+          "exam": "예상문제 1",
+          "question": "문제2",
+          "pages": [
+            14
+          ],
+          "issue": "종전 전원합의체의 중복제소 부정 다수의견과 반대의견",
+          "note": "번호 없이 소개된 이전 판례를 2013다202120에 대응시켰다. 전소의 적격 흠과 소송계속의 효과에 대한 다수·반대의견을 구별하며 현재 결론으로 그대로 암기하지 않는다."
+        }
+      ]
+    },
+    {
+      "id": "tutor2-01",
+      "topic": "의무이행지와 국제재판관할",
+      "title": "고엽제 사건의 의무이행지 제한론과 국내 토지관할의 구별",
+      "caseNumbers": [
+        "2002나32662"
+      ],
+      "court": "서울고등법원",
+      "decisionDate": "2006-01-26",
+      "sourceType": "tutoring",
+      "lectureRefs": [],
+      "bookPages": [],
+      "facts": "베트남전에 참전한 군인들과 유족들이 고엽제를 제조한 미국 회사들을 상대로 대한민국에서 손해배상을 청구하였다. 피고 회사들은 대한민국 법원에 국제재판관할이 없다고 다투었고, 원고들은 의무이행지·재산소재지·불법행위지를 관할 근거로 주장하였다.",
+      "issue": "피해자의 주소지가 손해배상채무의 이행지라는 이유만으로 그 주소지국에 국제재판관할을 인정할 수 있는지가 문제 되었다. 국내 토지관할 규정을 국제사건에 참작할 때 피고의 예측가능성과 당사자 사이의 공평을 어떻게 고려할지도 쟁점이었다.",
+      "holding": "서울고등법원은 불법행위채무가 지참채무라는 이유만으로 피해자 주소지국에 일률적으로 소를 제기하게 하는 것은 피고의 예측가능성과 공평에 반한다며 의무이행지 규정에 근거한 국제재판관할을 부정하였다. 다만 국내에 있는 피고들의 재산과 불법행위의 결과발생지 등 다른 근거를 검토하여 대한민국의 국제재판관할 자체는 인정하였다.",
+      "studyPoint": "튜터링 2014년 문제1과 2022년 문제1 해설이 인용한 고등법원 문장을 원래의 국제사건 문맥에서 이해한다. 의무이행지에 의한 한 가지 관할 근거를 부정한 것과 대한민국 법원에 관할이 전혀 없다고 결론내린 것을 구별한다.",
+      "distinction": "이 판결은 국내 여행 중 교통사고나 자전거 사고를 직접 판단한 사건도, 국내 불법행위 소송의 피해자 주소지 관할을 일반적으로 부정한 대법원 판결도 아니다. 튜터링에 사건번호는 없으며 공식 전문의 판시 문장으로 대응을 확인하였다. 국내 관할 설문은 민사소송법 제8조와 변제장소에 관한 규정 등을 별도로 검토하고 이 국제사건의 문장을 그대로 옮기지 않는다.",
+      "officialUrl": "https://law.go.kr/precInfoP.do?precSeq=171356",
+      "verification": "official",
+      "tags": [
+        "튜터링 기출",
+        "고엽제",
+        "국제재판관할",
+        "의무이행지",
+        "인용 문맥 교정"
+      ],
+      "tutoringRefs": [
+        {
+          "session": 2,
+          "section": "past",
+          "exam": "2014년 중간 1문",
+          "question": "문제1",
+          "pages": [
+            2,
+            3
+          ],
+          "issue": "불법행위 손해배상청구의 의무이행지 재판적과 그 제한론",
+          "note": "사건번호 없는 고등법원 인용문을 공식 전문과 대조한 대응이다. 서울고법 2002나32662 이유 3.나.(2)의 문장과 일치한다. 실제 사건은 고엽제 피해의 국제재판관할에 관한 것이므로, 국내 교통사고에서 제8조를 일반적으로 배제한 대법원 판례로 읽지 않는다. 각주2의 막연한 대법원 판례 언급은 사건을 특정하지 않았다."
+        },
+        {
+          "session": 2,
+          "section": "past",
+          "exam": "2022년 중간 1-1문",
+          "question": "문제1",
+          "pages": [
+            13
+          ],
+          "issue": "불법행위 손해배상청구에 관한 피해자 주소지의 관할",
+          "note": "해설의 고등법원 판시 문장을 2002나32662와 대조한 대응이다. 원판결의 국제재판관할 문맥을 유의해야 하며, 국내 사고에 관한 서울중앙지방법원의 토지관할을 직접 부정한 판결은 아니다. 이 문제 자체의 출전 판결이라고 단정하지 않는다."
+        }
+      ],
+      "relatedTopics": [
+        "proc10",
+        "proc12"
+      ]
+    },
+    {
+      "id": "tutor2-02",
+      "topic": "관할위반 이송신청과 특별항고",
+      "title": "이송신청을 기각하는 형식의 결정에도 특별항고할 이익이 없는 경우",
+      "caseNumbers": [
+        "95그59"
+      ],
+      "court": "대법원",
+      "decisionDate": "1996-01-12",
+      "sourceType": "tutoring",
+      "lectureRefs": [],
+      "bookPages": [
+        191,
+        192
+      ],
+      "facts": "전주지방법원 군산지원에서 소송을 수행하던 회사가 관할합의에 따라 서울지방법원에 관할이 있다며 이송을 신청하였다. 법원이 이 신청을 기각하자 회사는 특별항고로 불복하였다.",
+      "issue": "당사자에게 관할위반 이송신청권이 인정되지 않는 경우에도 법원이 기각결정을 했다는 이유로 특별항고할 이익이 생기는지가 문제 되었다. 이송을 거절한 결정과 실제로 소송을 다른 법원에 보내는 결정을 구별해야 했다.",
+      "holding": "대법원은 관할위반 이송을 요구하는 것은 법원의 직권발동을 촉구하는 의미일 뿐 법률상 이송신청권의 행사라고 보지 않았다. 재판할 필요가 없는 요청을 기각한 결정은 특별항고인에게 법률상 불이익을 주지 않아 특별항고의 이익이 없다고 보고 각하하였다.",
+      "studyPoint": "튜터링 2016년 문제2와 2020·2025년 문제의 해설에 나오는 특별항고 각하의 근거를 정리한다. 신청권의 부정, 거절 재판의 불필요, 불복이익의 부정을 순서대로 연결하여 설명한다.",
+      "distinction": "실제로 내려진 이송결정에 대한 즉시항고까지 금지한 것은 아니다. 이송결정이 항고심에서 취소된 뒤 최초 이송 요청자가 재항고하는 문제는 2017마1332를 따로 본다. 판결문에 쓰인 구법 제31조 제1항은 현행 민사소송법 제34조 제1항에 대응한다.",
+      "officialUrl": "https://www.law.go.kr/LSW/precInfoP.do?precSeq=113074",
+      "verification": "official",
+      "tags": [
+        "튜터링 기출",
+        "이송신청권",
+        "특별항고",
+        "불복이익"
+      ],
+      "tutoringRefs": [
+        {
+          "session": 2,
+          "section": "past",
+          "exam": "2016년 중간 1문",
+          "question": "문제2",
+          "pages": [
+            6,
+            8,
+            9
+          ],
+          "issue": "관할위반 이송신청을 기각한 결정에 대한 특별항고의 이익",
+          "note": "사건번호는 없으나 특별항고인에게 불이익이 없어 특별항고도 각하한다는 해설을 교재 191~192쪽 및 95그59 공식 전문과 대조하였다. 이는 이송신청 거절에 대한 특별항고이고, 실제 이송결정에 대한 즉시항고나 그 취소 후 재항고와 구별한다."
+        },
+        {
+          "session": 2,
+          "section": "past",
+          "exam": "2020년 중간 2문",
+          "question": "단일 설문",
+          "pages": [
+            12
+          ],
+          "issue": "관할위반 이송신청을 기각한 결정에 대한 특별항고의 이익",
+          "note": "사건번호는 없으나 특별항고인에게 불이익이 없어 특별항고도 각하한다는 해설을 교재 191~192쪽 및 95그59 공식 전문과 대조하였다. 이는 이송신청 거절에 대한 특별항고이고, 실제 이송결정에 대한 즉시항고나 그 취소 후 재항고와 구별한다."
+        },
+        {
+          "session": 2,
+          "section": "past",
+          "exam": "2025년 중간 1문",
+          "question": "단일 설문",
+          "pages": [
+            15
+          ],
+          "issue": "관할위반 이송신청을 기각한 결정에 대한 특별항고의 이익",
+          "note": "사건번호는 없으나 특별항고인에게 불이익이 없어 특별항고도 각하한다는 해설을 교재 191~192쪽 및 95그59 공식 전문과 대조하였다. 이는 이송신청 거절에 대한 특별항고이고, 실제 이송결정에 대한 즉시항고나 그 취소 후 재항고와 구별한다."
+        }
+      ],
+      "relatedTopics": [
+        "jur10"
+      ]
+    },
+    {
+      "id": "tutor2-03",
+      "topic": "손해나 지연을 피하기 위한 이송",
+      "title": "피고 다수의 거주지와 증거 소재지만으로 이송을 단정할 수 없다",
+      "caseNumbers": [
+        "98마1301"
+      ],
+      "court": "대법원",
+      "decisionDate": "1998-08-14",
+      "sourceType": "tutoring",
+      "lectureRefs": [],
+      "bookPages": [
+        188
+      ],
+      "facts": "원고들이 낙찰계와 관련된 약정금채권을 상속했다며 서울지방법원에 소송을 제기하였다. 하급심은 계가 운영된 지역에 증거·증인이 있고 피고 약 4분의 3이 그 지역에 거주한다는 사정 등을 들어 순천지원으로 이송하였다.",
+      "issue": "피고 다수에게 더 편리하고 증거가 모인 지역이라는 사정만으로 현저한 손해나 지연을 피하기 위한 이송이 정당화되는지가 문제 되었다. 이송에 따라 원고와 나머지 피고들에게 새로 생기는 부담도 함께 보아야 했다.",
+      "holding": "대법원은 피고의 소송비용과 시간 부담만으로 현저한 손해나 지연을 인정할 수 없고 원고의 부담도 고려해야 한다고 보았다. 수도권에 거주하는 다른 피고들, 서울에서 이미 상당히 심리된 관련 사건 등을 고려하면 제시된 이유만으로 이송할 근거가 부족하다고 하여 파기환송하였다.",
+      "studyPoint": "튜터링 2018년 문제와 2022년 문제의 이송요건을 검토할 때 양쪽 당사자의 부담과 심리 상황을 구체적으로 비교한다. 증인이 부산에 있다는 사실이나 당사자들이 수도권에 산다는 사실에서 곧바로 이송의 적법성을 도출하지 않는다.",
+      "distinction": "이 판례는 해당 기출의 원전으로 확인된 것이 아니라, 해설에 나타난 원고의 손해도 고려해야 한다는 법리를 교재 188쪽과 공식 판결로 연결한 보충 판례이다. 현저한 손해나 지연이 입증된 다른 사건의 이송 가능성까지 부정한 판결은 아니다. 판결문상 구법 제32조는 현행 민사소송법 제35조에 대응한다.",
+      "officialUrl": "https://www.law.go.kr/LSW/precInfoP.do?precSeq=195366",
+      "verification": "official",
+      "tags": [
+        "튜터링 기출",
+        "이송",
+        "현저한 손해",
+        "쌍방 부담",
+        "법리 보충"
+      ],
+      "tutoringRefs": [
+        {
+          "session": 2,
+          "section": "past",
+          "exam": "2018년 중간 1문",
+          "question": "단일 설문",
+          "pages": [
+            11
+          ],
+          "issue": "현저한 손해·지연 판단에서 원고와 피고의 부담을 함께 고려",
+          "note": "법리 보충: 해설의 원고 측 손해도 도외시하여서는 안 된다는 독립된 법리를 교재 188쪽 각주3 및 98마1301 공식 전문과 대조하였다. 사건번호가 없는 일반 법리의 대표 판례 대응이며, 해당 기출의 실제 원전이나 사실관계 원형으로 확인한 것은 아니다. 증거 소재지 또는 당사자의 거주 지역만으로 이송의 현저성을 자동 인정하지 않는다."
+        },
+        {
+          "session": 2,
+          "section": "past",
+          "exam": "2022년 중간 1-1문",
+          "question": "문제1",
+          "pages": [
+            14
+          ],
+          "issue": "현저한 손해·지연 판단에서 원고와 피고의 부담을 함께 고려",
+          "note": "법리 보충: 해설의 원고 측 손해도 도외시하여서는 안 된다는 독립된 법리를 교재 188쪽 각주3 및 98마1301 공식 전문과 대조하였다. 사건번호가 없는 일반 법리의 대표 판례 대응이며, 해당 기출의 실제 원전이나 사실관계 원형으로 확인한 것은 아니다. 증거 소재지 또는 당사자의 거주 지역만으로 이송의 현저성을 자동 인정하지 않는다."
+        }
+      ],
+      "relatedTopics": [
+        "jur10"
+      ]
+    },
+    {
+      "id": "tutor3-01",
+      "topic": "피고경정의 요건",
+      "title": "피고를 잘못 지정한 것이 명백한 때의 범위",
+      "caseNumbers": [
+        "97마1632"
+      ],
+      "court": "대법원",
+      "decisionDate": "1997-10-17",
+      "sourceType": "tutoring",
+      "lectureRefs": [],
+      "bookPages": [],
+      "facts": "원고는 공사도급계약서의 명의인을 수급인으로 보아 소를 제기하였다. 심리 중 피고 측 답변과 증거를 접한 뒤 실제 수급인이 피고보조참가인이라고 주장을 바꾸어 그 사람으로 피고를 경정해 달라고 신청하였다.",
+      "issue": "피고를 잘못 지정한 사실이 소장의 청구취지·원인 자체에서 드러나는 경우와, 증거조사로 실제 계약당사자를 밝혀야 하는 경우를 같은 경정요건으로 볼 수 있는가. 보조참가인이 스스로 수급인이라고 주장하면 이러한 제한이 해소되는지도 문제 되었다.",
+      "holding": "피고의 오지정이 명백하다는 것은 소장 기재 자체에서 법률적 평가 또는 법인격 유무에 관한 착오 등이 분명한 경우를 뜻한다. 증거조사로 사실을 인정하고 법률판단을 거쳐야 실제 수급인을 알 수 있는 이 사건에서는 요건을 충족하지 않으며, 보조참가인의 주장만으로 달라지지도 않는다고 보아 재항고를 기각하였다.",
+      "studyPoint": "피고경정은 재판 도중 다른 사람에게 책임이 있을 가능성을 발견할 때마다 자유롭게 피고를 교체하는 제도가 아니다. 먼저 확정된 당사자가 누구인지 판단한 뒤, 표시만 바로잡는 정정인지 다른 당사자로 바꾸는 경정인지 나누어야 한다.",
+      "distinction": "튜터링 1쪽 안내문에 직접 인용되고 2014년 문제2의 피고경정 요건을 보충하는 판례이며, 기출 해설에 사건번호가 적혀 있는 것은 아니다. 실제 사건은 공사도급계약의 수급인 분쟁이므로 사망자에서 상속인으로 표시를 바로잡는 문제와 동일 사건으로 취급하지 않는다. 판결 당시 조문은 구 민사소송법 제234조의2이고, 튜터링이 다루는 현행 조문은 제260조이다.",
+      "officialUrl": "https://www.law.go.kr/LSW/precInfoP.do?precSeq=196779",
+      "verification": "official",
+      "tags": [
+        "피고경정",
+        "명백한오지정",
+        "표시정정과구별",
+        "튜터링안내"
+      ],
+      "relatedTopics": [
+        "jur11"
+      ],
+      "tutoringRefs": [
+        {
+          "session": 3,
+          "section": "intro",
+          "exam": "3회차 안내·학설 설명",
+          "question": "피고경정 요건에 관한 사견",
+          "pages": [
+            1
+          ],
+          "issue": "피고를 잘못 지정한 것이 분명한 경우의 제한적 해석",
+          "note": "안내문에 97마1632가 직접 적혀 있다. 기출 해설의 직접 인용으로 집계하지 않는다. 사망자 소송에서 피고경정을 폭넓게 활용하자는 견해에 대한 검토 자료이며, 튜터가 진위 불확실·답안 현출 비추천으로 표시한 사견 전체를 이 결정의 판시로 취급하지 않는다."
+        },
+        {
+          "session": 3,
+          "section": "past",
+          "exam": "2014년 중간 2문",
+          "question": "문제2",
+          "pages": [
+            1,
+            2,
+            3
+          ],
+          "issue": "상속인을 절차에 참여시키는 방법 중 피고경정의 명백한 오지정 요건",
+          "note": "도입 1쪽에서 직접 인용하고, 2014년 문제2 해설 3쪽이 제260조의 명백한 오지정 요건과 피고경정 활용론을 설명한다는 점에서 연결한 보충 판례이다. 기출 문제·해설이 이 사건번호를 직접 인용한 것은 아니다. 엄격한 경정요건과 표시정정의 판례 구조를 구별하기 위한 연결이며, 도급사건을 사망자 소송과 동일시하거나 이 결정이 상속인으로의 모든 경정을 금지한다고 해석하지 않는다."
+        }
+      ]
+    },
+    {
+      "id": "tutor3-02",
+      "topic": "사망자 소송의 표시정정과 심급",
+      "title": "제1심에서 누락된 상속인을 항소심에 표시정정으로 추가할 수 있는가",
+      "caseNumbers": [
+        "73다1190"
+      ],
+      "court": "대법원",
+      "decisionDate": "1974-07-16",
+      "sourceType": "tutoring",
+      "lectureRefs": [],
+      "bookPages": [
+        210
+      ],
+      "facts": "원고는 사망 사실을 모르고 사망자를 피고로 제소한 뒤 제1심에서 상속인들로 표시를 정정하였으나 그중 한 사람을 빠뜨렸다. 제1심판결 후 항소심에서 누락된 상속인을 추가하는 표시정정을 신청했고, 원심은 단순한 상속인 표시의 정정이라며 받아들였다.",
+      "issue": "제1심에서 피고가 되지 않아 판결을 받지 않은 상속인도 항소심의 표시정정으로 새로 심판받게 할 수 있는가. 단순한 표시정정이라는 명칭만으로 항소심의 소송계속과 심급보장 문제를 넘을 수 있는지가 쟁점이다.",
+      "holding": "항소심의 소송계속은 제1심판결을 받은 당사자와 그 포괄승계인을 전제로 불복 당사자와 상대방 사이에 발생한다. 제1심판결을 받지 않은 누락 상속인에게는 항소심 소송계속이 없으므로 그를 표시정정으로 추가하여 본안판결한 것은 위법하다고 판단하였다.",
+      "studyPoint": "사망자에서 상속인으로의 정정이 허용되는지와, 그 상속인이 해당 심급의 당사자로 심판받을 수 있는지는 구별한다. 답안의 제1심 제한을 이해할 때는 누락된 사람에게 제1심 심판의 기회가 없었다는 구체적 이유를 함께 기억한다.",
+      "distinction": "튜터링 2014년 문제2 해설은 사건번호 없이 제1심까지의 제한을 설명하며, 교재 210쪽 각주3과 공식 원문을 대조하여 연결하였다. 유일한 상속인이 이미 소송하는 기출 복기 사례와 여러 상속인 중 일부가 누락된 원사건은 사실관계가 다르다. 이 판결을 모든 종류의 당사자표시정정이 항소심에서 금지된다는 일반 규칙으로 확대하지 않는다.",
+      "officialUrl": "https://law.go.kr/LSW/precInfoP.do?precSeq=207869",
+      "verification": "official",
+      "tags": [
+        "사망",
+        "표시정정",
+        "누락상속인",
+        "항소심",
+        "심급보장"
+      ],
+      "relatedTopics": [
+        "jur11",
+        "jur13",
+        "jur14"
+      ],
+      "tutoringRefs": [
+        {
+          "session": 3,
+          "section": "past",
+          "exam": "2014년 중간 2문",
+          "question": "문제2",
+          "pages": [
+            2,
+            3
+          ],
+          "issue": "상속인으로 표시정정하는 방법과 그 시기의 제1심 제한",
+          "note": "문제는 2쪽, 해당 시기 제한 해설은 3쪽이다. 튜터링에 사건번호가 없으므로 직접 인용이 아니라 교재 210쪽 각주3·공식 판결에 따른 법리 대응이다. 원사건은 제1심에서 누락된 상속인의 항소심 추가 문제로, 유일한 상속인이 이미 소송하는 기출 사실과 동일하지 않다."
+        }
+      ]
+    },
+    {
+      "id": "tutor4-01",
+      "topic": "추심소송의 종전 당사자적격 법리",
+      "title": "종전 판례: 추심권 소멸 뒤 소송수행권의 회복",
+      "caseNumbers": [
+        "2009다48879"
+      ],
+      "court": "대법원",
+      "decisionDate": "2009-11-12",
+      "sourceType": "tutoring",
+      "lectureRefs": [],
+      "bookPages": [],
+      "facts": "오피스텔 부지·건물 양도대금채권의 양수인이 지급을 청구했으나, 그 채권에는 다른 채권자의 집행과 국가의 체납처분상 압류가 있었다. 국가는 추심소송에서 승소한 뒤 별도로 조세채권을 변제받아 압류를 해제했지만, 원심은 양수인의 소송수행권이 회복되지 않는다고 보았다.",
+      "issue": "추심권이 소멸하면 채무자 또는 후순위 양수인에게 소송수행권이 돌아오는지가 문제 되었다. 국가가 추심 승소판결을 받은 뒤 체납처분상 압류를 해제한 경우에도 같은 결론인지 검토하였다.",
+      "holding": "당시 판례는 추심명령으로 채무자의 적격이 상실되지만, 추심권 소멸 뒤에는 소송수행권이 복귀한다고 보았다. 대법원은 국가가 추심을 마치기 전에 압류를 해제한 잔존채권 부분 등을 더 심리하도록 파기환송하였다.",
+      "studyPoint": "이 판결의 적격상실 전제는 2025년 전원합의체가 변경한 종전 법리이다. 현재는 추심명령만으로 채무자가 적격을 잃지 않으므로, 적격이 있다가 사라지고 다시 생긴다는 순서를 일반 결론으로 암기하지 않는다.",
+      "distinction": "튜터링의 대여금 가상사례와 실제 양도대금·체납처분 사건은 다르다. 전부명령으로 채권 자체가 이전된 부분과 추심권 소멸 부분도 구별하며, 판례 전체의 모든 법리가 변경되었다고 단정하지 않는다.",
+      "officialUrl": "https://www.law.go.kr/LSW/precInfoP.do?precSeq=140830",
+      "verification": "official",
+      "tags": [
+        "튜터링 기출",
+        "종전 판례",
+        "추심권 소멸",
+        "당사자적격",
+        "2025년 판례변경"
+      ],
+      "relatedTopics": [
+        "cap09",
+        "oct1502",
+        "oct1503"
+      ],
+      "tutoringRefs": [
+        {
+          "session": 4,
+          "section": "past",
+          "exam": "2016년 중간 2문",
+          "question": "문제2",
+          "pages": [
+            8,
+            10
+          ],
+          "issue": "종전 판례의 적격상실·추심권 소멸 후 회복",
+          "note": "사건번호 없는 해설의 법리 대응이다. 2025년 변경 판례와 대조하는 역사적 항목이다."
+        }
+      ]
+    },
+    {
+      "id": "tutor4-02",
+      "topic": "채권자대위소송의 권리불행사 요건",
+      "title": "채무자가 이미 소송으로 행사한 권리를 다시 대위할 수 있는가",
+      "caseNumbers": [
+        "2008다65839"
+      ],
+      "court": "대법원",
+      "decisionDate": "2009-03-12",
+      "sourceType": "tutoring",
+      "lectureRefs": [],
+      "bookPages": [],
+      "facts": "하수급인이 발주자를 상대로 공사대금 지급을 구하면서 원사업자의 채권을 대위한다는 주장도 하였다. 원사업자는 하수급인의 제소 전에 이미 발주자를 상대로 해당 공사대금청구소송을 제기한 상태였다.",
+      "issue": "채무자가 이미 재판상 행사한 권리를 채권자가 다시 대위할 수 있는지가 문제 되었다. 채무자에게 무자력이 인정되면 그 선행 권리행사에도 불구하고 대위가 허용되는지도 검토하였다.",
+      "holding": "대법원은 대위권 행사 당시 채무자가 이미 그 권리를 재판상 행사했다면 채권자가 대위행사할 수 없다고 보았다. 이 사건의 대위 주장을 배척한 원심 판단은 정당하며, 채무자의 무자력만으로 달라지지 않는다고 하였다.",
+      "studyPoint": "대위소송에서는 피보전채권·보전의 필요와 함께 채무자의 권리불행사를 구별하여 심사한다. 다만 두 기출의 직접 결론은 피보전채권 부존재에 따른 각하이며, 이 판례는 해설의 인접 요건을 보충한다.",
+      "distinction": "기출의 대여금·보험금 사례를 실제 공사대금 사건으로 바꾸지 않는다. 사건 전체가 소각하된 것은 아니며, 별도의 하도급대금 직접청구 부분은 원고 패소 부분을 파기환송하고 피고의 상고는 기각하였다.",
+      "officialUrl": "https://law.go.kr/LSW/precInfoP.do?evtNo=2008%EB%8B%A465839",
+      "verification": "official",
+      "tags": [
+        "튜터링 기출",
+        "채권자대위",
+        "권리불행사",
+        "인접 해설"
+      ],
+      "relatedTopics": [
+        "cap09",
+        "cap08",
+        "oct1516"
+      ],
+      "tutoringRefs": [
+        {
+          "session": 4,
+          "section": "past",
+          "exam": "2016년 중간 2문",
+          "question": "문제1",
+          "pages": [
+            8,
+            9
+          ],
+          "issue": "해설의 채무자 권리불행사 요건",
+          "note": "번호 없는 판례 태도의 법리 대응이다. 증명책임 배분까지 이 판결의 직접 판시로 삼지 않는다."
+        },
+        {
+          "session": 4,
+          "section": "past",
+          "exam": "2022년 기말 1-1문",
+          "question": "문제1",
+          "pages": [
+            11
+          ],
+          "issue": "대위권 행사요건 중 채무자의 권리불행사",
+          "note": "주된 출제결론이 아닌 해설의 인접 법리 대응이다. 사건번호는 원자료에 없다."
+        }
       ]
     }
   ]
